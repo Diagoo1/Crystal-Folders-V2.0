@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-0984E3?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/genesistoxical/crystal-folders/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/crystal-folders.svg?color=0984E3&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/Diagoo1/Crystal-Folders-V2.0/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/crystal-folders.svg?color=0984E3&label=Release&style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-0984E3?style=flat-square&labelColor=343B45"/></a> 
  <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-2-0984E3?style=flat-square&labelColor=343B45"/></a>
 </p>
