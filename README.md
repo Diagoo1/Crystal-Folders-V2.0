@@ -29,7 +29,6 @@ This version is a **major milestone** and a complete overhaul from the ground up
 ## 🚀 Key Features
 * ⚡ **Lightning Fast:** Change hundreds of icons in a heartbeat.
 * 🖱️ **Drag & Drop:** The simplest way to add folders to your list.
-* 📂 **One-Click Libraries:** Quick access to Documents, Pictures, Music, and Videos.
 * 🔄 **Subfolder Customization:** Depth-first icon replacement for all nested directories.
 * 📱 **Portable Mode:** Icons stay visible even if you move the folder to another PC. [𝐢](#details)
 * 🔔 **Desktop Notifications:** Get notified immediately when the customization is complete.
