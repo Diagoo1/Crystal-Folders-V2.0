@@ -12,11 +12,14 @@ namespace CrystalFolders
         {
             InitializeComponent();
             this.FlowDirection = (Config.currentLan == "ar") ? FlowDirection.RightToLeft : FlowDirection.LeftToRight;
-            PickerControl.SelectedBrush = new SolidColorBrush(Config.colorBrush.Color);
+
+            // ضبط الـ Picker ليظهر اللون الحالي بشفافيته المخزنة
+            PickerControl.SelectedBrush = new SolidColorBrush((Color)ColorConverter.ConvertFromString(Config.HEX));
         }
 
         private void Default_Click(object sender, RoutedEventArgs e)
         {
+            // اللون الافتراضي معتم تماماً
             PickerControl.SelectedBrush = new SolidColorBrush((Color)ColorConverter.ConvertFromString("#FF0984E3"));
             Apply_Click(sender, e);
         }
@@ -25,6 +28,7 @@ namespace CrystalFolders
         {
             if (PickerControl.SelectedBrush != null)
             {
+                // هنا يتم حفظ اللون بالكامل مع الـ Alpha (مثال: #800984E3)
                 Config.HEX = PickerControl.SelectedBrush.Color.ToString();
                 Config.ApplyTheme();
             }
@@ -35,11 +39,7 @@ namespace CrystalFolders
 
         private void PickerControl_SelectedColorChanged(object sender, FunctionEventArgs<Color> e)
         {
-            if (PickerControl.SelectedBrush != null && PickerControl.SelectedBrush.Color.A < 255)
-            {
-                Color c = PickerControl.SelectedBrush.Color;
-                PickerControl.SelectedBrush = new SolidColorBrush(Color.FromRgb(c.R, c.G, c.B));
-            }
+            // تركنا هذه الدالة فارغة للسماح للمستخدم باختيار أي درجة شفافية يريدها من شريط Opacity
         }
 
         private void Window_MouseDown(object sender, MouseButtonEventArgs e)
