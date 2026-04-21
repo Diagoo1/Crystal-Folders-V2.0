@@ -19,9 +19,29 @@
 ## 🌟 The Reimagined Experience (v2.0.0)
 * **🎨 Brand New UI:** Modern design inspired by Windows 11 with smooth animations.
 * **🌙 Native Dark Mode:** Full integration for a comfortable visual experience.
-* **🖼️ Built-in Image Converter:** No need for external tools! Convert any image (PNG, JPG, etc.) into a folder icon directly inside the app.
+* **🖼️ Built-in Image Converter:** Convert any image (PNG, JPG) into a folder icon directly inside the app.
 * **🌍 Full Arabic Support:** Complete RTL (Right-to-Left) localization for Arabic speakers.
 * **🌈 Dynamic Accent Colors:** Fully customizable interface themes.
+
+---
+
+## 📸 Interface Screenshots
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(1).png" width="400">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(2).png" width="400">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(3).png" width="400">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(4).png" width="400">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(5).png" width="400">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(6).png" width="400">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(7).png" width="400">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(8).png" width="400">
+</p>
 
 ---
 
@@ -29,19 +49,13 @@
 * ⚡ **Lightning Fast:** Batch customize hundreds of folders in a heartbeat.
 * 🖱️ **Drag & Drop:** The simplest way to manage your folder lists.
 * 📱 **Portable Mode:** Icons stay visible even if you move the folder to another PC.
-* 🔔 **Desktop Notifications:** Get notified immediately when the customization is complete.
-* 📑 **Metadata Safe:** Modifies `Desktop.ini` without losing your existing folder information.
-
----
-
-## 📸 Preview
-<a href="#"><img src="docs/assets/Crystal-Folders.gif"/></a>
+* 🔔 **Desktop Notifications:** Get notified immediately when completed.
+* 📑 **Metadata Safe:** Modifies `Desktop.ini` without losing folder information.
 
 ---
 
 ## ⚙️ Config & Storage
-`Config.ini` stores your personal preferences. To keep your system clean and avoid permission issues, settings are **no longer stored next to the program**. They are now safely managed in the Windows AppData directory:
-
+Settings are safely managed in the Windows AppData directory:
 **Path:** `%AppData%\CrystalFolders\Config.ini`
 
 
@@ -56,7 +70,7 @@
 ### 📚 Third-Party Libraries
 * [HandyControls](https://github.com/ghost1372/HandyControls) - UI components.
 * [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) - Selection dialogs.
-* [Fody](https://github.com/fody/fody) & [Costura](https://github.com/Fody/Costura) - Embedding dependencies into a single EXE.
+* [Fody](https://github.com/fody/fody) & [Costura](https://github.com/Fody/Costura) - Embedding dependencies.
 
 ---
 
