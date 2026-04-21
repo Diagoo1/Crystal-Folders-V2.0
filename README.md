@@ -17,34 +17,37 @@
 ---
 
 ## 🌟 The Reimagined Experience (v2.0.0)
-* **🎨 Brand New UI:** Modern design inspired by Windows 11.
-* **🌙 Native Dark Mode:** Full integration for eye comfort.
-* **🖼️ Image to Icon Engine:** Convert images to high-quality icons directly.
-* **🌍 Full Arabic Support:** Native RTL localization.
-* **🌈 Dynamic Accent Colors:** Fully customizable interface themes.
+* **🎨 Brand New UI:** Modern design inspired by Windows 11 with smooth animations.
+* **🌙 Native Dark Mode:** Full integration for a comfortable visual experience.
+* **🌍 Full Arabic Support:** Complete RTL (Right-to-Left) localization for Arabic speakers.
+* **🌈 Dynamic Accent Colors:** Fully customizable interface themes to match your style.
 
 ---
 
 ## 🚀 Key Features
-* ⚡ **Lightning Fast:** Batch customize hundreds of folders.
-* 🖱️ **Drag & Drop:** Easy management of folder lists.
-* 📂 **Library Quick-Add:** Instant access to system folders.
-* 📱 **Portable Mode:** Keep icons visible across different PCs.
-* ⚙️ **AppData Config:** Settings are safely kept in `%AppData%\CrystalFolders`.
+* 🖼️ **Built-in Image Converter:** No need for external tools! Convert any image (PNG, JPG, etc.) into a high-quality folder icon directly inside the app.
+* ⚡ **Lightning Fast:** Batch customize hundreds of folders in a heartbeat.
+* 🖱️ **Drag & Drop:** The simplest way to manage your folder lists.
+* 📱 **Portable Mode:** Icons stay visible even if you move the folder to another PC.
+* ⚙️ **Smart Config:** Settings are safely kept in your Windows AppData directory.
+
+---
+
+## 📸 Preview
+<a href="#"><img src="docs/assets/Crystal-Folders.gif"/></a>
 
 ---
 
 ## 📜 Credits & Acknowledgments
 
 ### 👨‍💻 Development Team
-* **[Tarek Sadek](https://github.com/Diagoo1):** Lead developer of v2.0.0. Added Arabic support, Themes, Dark Mode, and performance optimizations.
+* **[Tarek Sadek](https://github.com/Diagoo1):** Lead developer of v2.0.0. Implemented the **Integrated Image-to-Icon Engine**, Arabic support, Themes, Dark Mode, and performance optimizations.
 * **[Génesis Toxical](https://github.com/genesistoxical):** Original creator and founder of the project.
 
 ### 📚 Third-Party Libraries
 * [HandyControls](https://github.com/ghost1372/HandyControls) - UI components.
 * [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) - Selection dialogs.
-* [Fody](https://github.com/fody/fody) - Extensible tool for weaving .NET assemblies.
-* [Costura.Fody](https://github.com/Fody/Costura) - Used to embed dependencies into a single executable.
+* [Fody](https://github.com/fody/fody) & [Costura](https://github.com/Fody/Costura) - Embedding dependencies into a single EXE.
 * [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) - UI Fonts.
 
 ---
