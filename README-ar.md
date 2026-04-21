@@ -1,55 +1,79 @@
 <p align="center"></p>
 <p align="center"><a href="#"><img width="115px" src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Icon - Copy.png" align="center" alt="Crystal Folders"/></a></p>
-<h1 align="center">Crystal Folders v2.0</h1>
-<p align="center"><b>Crystal Folders</b> هو تطبيق عصري لنظام ويندوز، أُعيد تصميمه بالكامل لتخصيص وتلوين أيقونات المجلدات في ثوانٍ. يتميز بواجهة جديدة تماماً، ثيمات ديناميكية، ودعم كامل للعربية.</p>
+<h1 align="center">كريستال فولدرز v2.0</h1>
+<p align="center"><b>كريستال فولدرز</b> هو تطبيق عصري لنظام ويندوز، أُعيد تصميمه بالكامل لتخصيص وتلوين أيقونات المجلدات في ثوانٍ معدودة. يتميز الآن بواجهة مستخدم جديدة كلياً، ثيمات ديناميكية، ودعم كامل وأصيل للغة العربية.</p>
 
 <p align="center">
- <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-0984E3?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/Diagoo1/Crystal-Folders-V2.0/releases/latest"><img src="https://img.shields.io/github/v/release/Diagoo1/Crystal-Folders-V2.0.svg?color=0984E3&label=Release&style=flat-square&labelColor=343B45"/></a>
- <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-0984E3?style=flat-square&labelColor=343B45"/></a> 
- <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-2-0984E3?style=flat-square&labelColor=343B45"/></a>
+ <a href="LICENSE"><img alt="الترخيص" src="https://img.shields.io/badge/الترخيص-MIT-0984E3?style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/Diagoo1/Crystal-Folders-V2.0/releases/latest"><img src="https://img.shields.io/github/v/release/Diagoo1/Crystal-Folders-V2.0.svg?color=0984E3&label=الإصدار&style=flat-square&labelColor=343B45"/></a>
+ <a href="#"><img alt="بيئة العمل" src="https://img.shields.io/badge/بيئة_العمل-.NET_4.8-0984E3?style=flat-square&labelColor=343B45"/></a> 
+ <a href="#"><img alt="اللغات" src="https://img.shields.io/badge/اللغات-2-0984E3?style=flat-square&labelColor=343B45"/></a>
 </p>
 
 <p align="center">
-<a href="README.md">English</a> :speech_balloon: <a href="README-ar.md">العربية</a>
+<a href="README.md">الإنجليزية</a> :speech_balloon: <a href="README-ar.md">العربية</a>
 </p>
 
 ---
 
 ## 🌟 التجربة الجديدة (الإصدار v2.0.0)
-* **🎨 واجهة مستخدم جديدة:** تصميم عصري مستوحى من ويندوز 11.
-* **🌙 الوضع الليلي:** دعم كامل ومريح للعين أثناء الاستخدام.
-* **🌍 دعم كامل للعربية:** واجهة عربية بالكامل تدعم التوجيه (RTL).
-* **🌈 ألوان ديناميكية:** إمكانية تخصيص لون الثيم بالكامل حسب ذوقك.
+هذا الإصدار ليس مجرد تحديث، بل هو إعادة بناء شاملة من الصفر لتوفير تجربة تخصيص متميزة:
+* **🎨 واجهة مستخدم عصرية:** تصميم جديد كلياً مستوحى من جماليات ويندوز 11 مع حواف دائرية متكيفة وحركات انسيابية.
+* **🌙 وضع ليلي أصيل:** تكامل كامل مع الوضع المظلم لراحة العين أثناء الاستخدام المطول.
+* **🖼️ محول صور مدمج:** لا حاجة لأدوات خارجية! قم بتحويل أي صورة (PNG، JPG) إلى أيقونة عالية الجودة للمجلد مباشرة من داخل التطبيق.
+* **🌍 دعم كامل للعربية:** واجهة مستخدم عربية بالكامل تدعم التوجيه من اليمين إلى اليسار بشكل طبيعي.
+* **🌈 ألوان ثيم ديناميكية:** اختر لونك المفضل لتخصيص واجهة التطبيق بالكامل بما يناسب ذوقك.
+
+---
+
+## 📸 صور من داخل التطبيق
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(1).png" width="400" alt="معاينة الواجهة">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(2).png" width="400" alt="معاينة الواجهة">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(3).png" width="400" alt="معاينة الواجهة">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(4).png" width="400" alt="معاينة الواجهة">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(5).png" width="400" alt="معاينة الواجهة">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(6).png" width="400" alt="معاينة الواجهة">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(7).png" width="400" alt="معاينة الواجهة">
+  <img src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Screenshot%20(8).png" width="400" alt="معاينة الواجهة">
+</p>
 
 ---
 
 ## 🚀 المميزات الرئيسية
-* 🖼️ **أداة تحويل مدمجة:** لن تحتاج لأي برامج خارجية! التطبيق يحتوي على أداة داخلية لتحويل أي صورة (PNG, JPG وغيرها) إلى أيقونة عالية الجودة للمجلد مباشرة.
-* ⚡ **سرعة البرق:** تخصيص مئات المجلدات دفعة واحدة في ثوانٍ.
-* 🖱️ **السحب والإفلات:** أسهل طريقة لإضافة وإدارة المجلدات.
-* 📱 **الوضع المحمول:** تظل الأيقونات ظاهرة حتى عند نقل المجلد لجهاز آخر.
-* ⚙️ **إعدادات ذكية:** تُحفظ تفضيلاتك بأمان في مجلد AppData الخاص بويندوز.
+* ⚡ **سرعة فائقة:** تخصيص مئات المجلدات وتغيير أيقوناتها في لمح البصر.
+* 🖱️ **السحب والإفلات:** أسهل طريقة لإضافة المجلدات وإدارة القائمة.
+* 📱 **الوضع المحمول:** تبقى الأيقونات المخصصة ظاهرة حتى عند نقل المجلد إلى جهاز كمبيوتر آخر أو وحدة تخزين خارجية.
+* 🔔 **إشعارات النظام:** احصل على تنبيه فوري على سطح المكتب بمجرد اكتمال عملية التخصيص.
+* 📑 **حماية البيانات:** يقوم التطبيق بتعديل ملفات النظام `Desktop.ini` بذكاء لضمان عدم فقدان أي معلومات سابقة للمجلد.
 
 ---
 
-## 📸 معاينة
-<a href="#"><img src="docs/assets/Crystal-Folders.gif"/></a>
+## ⚙️ الإعدادات والتخزين
+يتم حفظ تفضيلاتك الشخصية في ملف `Config.ini`. لضمان نظافة النظام وتجنب مشاكل الصلاحيات، **لم تعد الإعدادات تُخزن بجانب البرنامج**، بل يتم إدارتها بأمان في مسار بيانات التطبيقات الخاص بويندوز:
+
+**المسار:** `%AppData%\CrystalFolders\Config.ini`
 
 ---
 
-## 📜 الاعتمادات والتقدير (Credits)
+## 📜 الاعتمادات والتقدير
 
 ### 👨‍💻 فريق التطوير
-* **[طارق صادق (Tarek Sadek)](https://github.com/Diagoo1):** المطور الرئيسي للإصدار v2.0.0. قام بتطوير **محرك تحويل الصور المدمج**، إضافة التعريب، الثيمات، الوضع الليلي، وتحسين الأداء.
-* **[Génesis Toxical](https://github.com/genesistoxical):** المبتكر الأصلي وصاحب الفكرة والأساس للمشروع.
+* **[طارق صادق (Tarek Sadek)](https://github.com/Diagoo1):** المطور الرئيسي للإصدار المطور (v2.0.0). قام بتطوير **محرك تحويل الصور المدمج**، تنفيذ التعريب الكامل، الثيمات الديناميكية، الوضع الليلي، وتحسينات الأداء العام.
+* **[Génesis Toxical](https://github.com/genesistoxical):** المبتكر الأصلي للنسخة الأولى من التطبيق. شكراً لك على وضع حجر الأساس لهذا المشروع.
 
 ### 📚 المكتبات الخارجية
-* [HandyControls](https://github.com/ghost1372/HandyControls) - لمكونات الواجهة.
-* [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) - لقوائم الاختيار.
-* [Fody](https://github.com/fody/fody) & [Costura](https://github.com/Fody/Costura) - لدمج جميع الملفات داخل ملف EXE واحد.
+* **HandyControls:** لمكونات واجهة المستخدم العصرية.
+* **FolderBrowserEx:** لقوائم اختيار المجلدات المتقدمة.
+* **Fody & Costura:** لدمج جميع ملفات العمل داخل ملف تشغيلي واحد سهل النقل.
 
 ---
 
 ## ⚖️ الترخيص
-**رخة MIT** - جميع الحقوق محفوظة 2025 - 2026 **مشروع Crystal Folders** - تطوير وصيانة طارق صادق.
+**رخصة MIT** - جميع الحقوق محفوظة لعام 2026 - 2027 **مشروع كريستال فولدرز** - يتم تطويره وصيانته بواسطة طارق صادق.
