@@ -1,5 +1,5 @@
 <p align="center"></p>
-<p align="center"><a href="#"><img width="115px" src="docs/assets/Logo-115px.png" align="center" alt="Crystal Folders"/></a></p>
+<p align="center"><a href="#"><img width="115px" src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Icon - Copy.png" align="center" alt="Crystal Folders"/></a></p>
 <h1 align="center">Crystal Folders</h1>
 <p align="center"><b>Crystal Folders</b> is a modern Windows application reimagined to customize and colorize your folder icons in seconds. Now featuring a brand-new UI, dynamic themes, and native Arabic support.</p>
 
