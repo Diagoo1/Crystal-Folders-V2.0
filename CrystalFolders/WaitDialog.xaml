@@ -1,0 +1,78 @@
+﻿<Window x:Class="CrystalFolders.WaitDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:properties="clr-namespace:CrystalFolders.Properties"
+        xmlns:hc="https://handyorg.github.io/handycontrol" 
+        mc:Ignorable="d"
+        Title="{x:Static properties:Resources.Applying}" 
+        FontFamily="Segoe UI Variable Display" 
+        FontSize="11" 
+        TextOptions.TextRenderingMode="ClearType" 
+        TextOptions.TextFormattingMode="Display" 
+        UseLayoutRounding="True" 
+        Width="320" Height="180" 
+        AllowsTransparency="True" 
+        Background="Transparent" 
+        WindowStyle="None" 
+        ResizeMode="NoResize" 
+        WindowStartupLocation="CenterOwner" 
+        ShowInTaskbar="False">
+
+    <Border Background="{DynamicResource CardBackground}" 
+            CornerRadius="15" 
+            BorderBrush="{DynamicResource BorderColor}" 
+            BorderThickness="1" Margin="10">
+        <Border.Effect>
+            <DropShadowEffect BlurRadius="15" Direction="270" Opacity="0.15" ShadowDepth="2"/>
+        </Border.Effect>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- رأس النافذة بلون الـ Accent المختار -->
+            <Border Grid.Row="0" Background="{DynamicResource AccentColor}" CornerRadius="14,14,0,0">
+                <TextBlock Text="{x:Static properties:Resources.Applying}" 
+                           Foreground="White" 
+                           FontWeight="SemiBold" 
+                           VerticalAlignment="Center" 
+                           HorizontalAlignment="Center" 
+                           FontSize="10" Opacity="0.9"/>
+            </Border>
+
+            <StackPanel Grid.Row="1" VerticalAlignment="Center" Margin="20,10">
+
+                <TextBlock Text="{x:Static properties:Resources.PleaseWait}" 
+                           Foreground="{DynamicResource AccentColor}" 
+                           FontSize="18" 
+                           FontWeight="Bold" 
+                           TextAlignment="Center" 
+                           Margin="0,0,0,5"/>
+
+                <TextBlock x:Name="Label" 
+                           Text="{x:Static properties:Resources.YourFoldersAreBeingCustomized}" 
+                           Foreground="{DynamicResource TextPrimary}" 
+                           FontSize="12" 
+                           TextAlignment="Center" 
+                           TextWrapping="Wrap" 
+                           Margin="0,0,0,20"/>
+
+                <Grid HorizontalAlignment="Center">
+                    <Border CornerRadius="5" Height="8" Width="180" Background="{DynamicResource SecondaryRegionBrush}"/>
+
+                    <ProgressBar x:Name="ApplyingProgress" 
+                                 Height="8" Width="180" 
+                                 BorderThickness="0" 
+                                 Foreground="{DynamicResource AccentColor}" 
+                                 Background="Transparent"
+                                 IsIndeterminate="True" 
+                                 hc:BorderElement.CornerRadius="5"/>
+                </Grid>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

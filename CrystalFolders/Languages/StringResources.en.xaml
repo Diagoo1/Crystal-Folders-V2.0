@@ -1,0 +1,93 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <!-- General Application -->
+    <sys:String x:Key="AppTitle">Crystal Folders</sys:String>
+    <sys:String x:Key="Ver">2.0</sys:String>
+
+    <!-- MainWindow UI -->
+    <sys:String x:Key="ManageFolders">Drop Folders Here</sys:String>
+    <sys:String x:Key="Browse">📁 Browse Folders</sys:String>
+    <sys:String x:Key="Remove">✕ Remove</sys:String>
+    <sys:String x:Key="RemoveAll">🗑 Clear All</sys:String>
+    <sys:String x:Key="Folders">Folders Selected:</sys:String>
+    <sys:String x:Key="SubFolders">Total Sub-items:</sys:String>
+    <sys:String x:Key="IncludeSubfolders">Include Subfolders</sys:String>
+    <sys:String x:Key="PortableMode">Portable Mode</sys:String>
+    <sys:String x:Key="ChooseIcon">Choose Icon</sys:String>
+    <sys:String x:Key="ApplyCustomization">Apply Customization</sys:String>
+    <sys:String x:Key="Restore">Restore Mode</sys:String>
+    <sys:String x:Key="NormalMode">Normal Mode</sys:String>
+    <sys:String x:Key="RestoreToDefault">Restore to Default</sys:String>
+    <sys:String x:Key="Summary">Summary</sys:String>
+    <sys:String x:Key="FoldersSelected">Folders Selected:</sys:String>
+    <sys:String x:Key="TotalSubItems">Total Sub-items:</sys:String>
+    <sys:String x:Key="IconPreview">Icon Preview</sys:String>
+    <sys:String x:Key="Settings">Settings</sys:String>
+
+    <!-- Growl Messages -->
+    <sys:String x:Key="AppAlreadyInitialState">The application is already in its initial state.</sys:String>
+    <sys:String x:Key="AppRefreshed">The application has been refreshed successfully.</sys:String>
+    <sys:String x:Key="ListAlreadyEmpty">The list is already empty.</sys:String>
+    <sys:String x:Key="PleaseSelectItems">Please select items from the list to remove.</sys:String>
+    <sys:String x:Key="ItemsRemoved">Selected items have been removed.</sys:String>
+    <sys:String x:Key="FoldersListCleared">The folders list has been cleared.</sys:String>
+    <sys:String x:Key="InvalidIconFile">The selected file is not a valid icon.</sys:String>
+    <sys:String x:Key="RestoreModeActive">Restore mode is now active.</sys:String>
+    <sys:String x:Key="ChooseAnIconFirst">Please choose an icon first.</sys:String>
+    <sys:String x:Key="FoldersHaveBeenRestored">The folders have been restored to their default icons.</sys:String>
+    <sys:String x:Key="IconsApplied">The icons have been applied successfully.</sys:String>
+    <sys:String x:Key="NormalModeActive">Normal mode is now active.</sys:String>
+
+    <!-- About Window -->
+    <sys:String x:Key="About">About</sys:String>
+    <sys:String x:Key="CrystalFoldersTitle">Crystal Folders</sys:String>
+    <sys:String x:Key="CrystalIconsTitle">Crystal Icons</sys:String>
+    <sys:String x:Key="AppToCustomizeFolderIcons">An application to customize folder icons.</sys:String>
+    <sys:String x:Key="GlobalFontCollectionDesc">A global font collection for all languages.</sys:String>
+    <sys:String x:Key="Language">Language:</sys:String>
+    <sys:String x:Key="English">English (US)</sys:String>
+    <sys:String x:Key="Arabic">العربية (AR)</sys:String>
+    <sys:String x:Key="Theme">Theme</sys:String>
+    <sys:String x:Key="ErrorOpeningLink">Error opening link:</sys:String>
+    <sys:String x:Key="DescriptionIcon">🔗 Application Description</sys:String>
+    <sys:String x:Key="Info">Information</sys:String>
+
+    <!-- Help Dialog -->
+    <sys:String x:Key="Help">Help</sys:String>
+    <sys:String x:Key="HelpDialogTitle">Help Information</sys:String>
+    <sys:String x:Key="Close">Close</sys:String>
+    <sys:String x:Key="HelpPortableHeader">• Portable Config:</sys:String>
+    <sys:String x:Key="HelpUsageHeader">• How to use:</sys:String>
+    <sys:String x:Key="WillMakeTheCustomIconVisible">This will make the custom icon visible on the folder thumbnail.</sys:String>
+    <sys:String x:Key="ItWorksByDraggingFolders">It works by dragging the folders you want to customize into the list, or by using the browse button.</sys:String>
+    <sys:String x:Key="YouCanCustomizeUpTo30Folders">You can customize up to 30 folders at once.</sys:String>
+    <sys:String x:Key="WillRemoveAnyIconsCopied">This will remove any custom icons previously copied by the app.</sys:String>
+    <sys:String x:Key="YouCanRestoreUpTo30Folders">You can restore up to 30 folders at once.</sys:String>
+
+    <!-- Picker Window -->
+    <sys:String x:Key="ColorPickerTitle">Color Picker</sys:String>
+    <sys:String x:Key="Apply">Apply</sys:String>
+    <sys:String x:Key="Cancel">Cancel</sys:String>
+    <sys:String x:Key="Default">Default</sys:String>
+
+    <!-- System Dialogs -->
+    <sys:String x:Key="SelectFolders">Select Folders</sys:String>
+    <sys:String x:Key="IconFiles">Icon Files</sys:String>
+
+    <!-- Icon Converter Strings -->
+    <sys:String x:Key="IconConverter">Icon Converter</sys:String>
+    <sys:String x:Key="SelectImageToPreview">Select image to preview</sys:String>
+    <sys:String x:Key="BrowseImage">Browse Image</sys:String>
+    <sys:String x:Key="SaveLocation">Save location...</sys:String>
+    <sys:String x:Key="ConvertAndSave">Convert &amp; Save ICO</sys:String>
+    <sys:String x:Key="IconSaved">Icon saved successfully!</sys:String>
+    <sys:String x:Key="PleaseSelectPaths">Please select image and save location</sys:String>
+
+    <!-- Applying -->
+    <sys:String x:Key="Applying">Applying...</sys:String>
+    <sys:String x:Key="PleaseWait">Please Wait</sys:String>
+    <sys:String x:Key="YourFoldersAreBeingCustomized">Your folders are being customized, please do not close the app.</sys:String>
+
+</ResourceDictionary>

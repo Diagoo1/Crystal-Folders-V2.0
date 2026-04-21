@@ -1,0 +1,34 @@
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\bin\Debug\Crystal Folders.exe
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\bin\Debug\Crystal Folders.pdb
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\bin\Debug\ar\Crystal Folders.resources.dll
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\bin\Debug\HandyControl.xml
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\CrystalFolders.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\About.baml
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\HelpDialog.baml
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\IconConverterWindow.baml
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\Languages\StringResources.ar.baml
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\Languages\StringResources.en.baml
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\Picker.baml
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\About.g.cs
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\HelpDialog.g.cs
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\IconConverterWindow.g.cs
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\Picker.g.cs
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\WaitDialog.g.cs
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\Crystal Folders_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\Crystal Folders_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\WaitDialog.baml
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\Crystal Folders.g.resources
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\CrystalFolders.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\CrystalFolders.Properties.Resources.ar.resources
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\CrystalFolders.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\CrystalFolders.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\CrystalFolders.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\CrystalFolders.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\ar\Crystal Folders.resources.dll
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\CrystalFolders.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\Crystal Folders.exe
+C:\Users\Administrator\Desktop\Crystal Folders\CrystalFolders\obj\Debug\Crystal Folders.pdb

@@ -1,0 +1,93 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <!-- General Application -->
+    <sys:String x:Key="AppTitle">مجلدات كريستال</sys:String>
+    <sys:String x:Key="Ver">2.0</sys:String>
+
+    <!-- MainWindow UI -->
+    <sys:String x:Key="ManageFolders">أسقط المجلدات هنا</sys:String>
+    <sys:String x:Key="Browse">📁 تصفح المجلدات</sys:String>
+    <sys:String x:Key="Remove">✕ حذف</sys:String>
+    <sys:String x:Key="RemoveAll">🗑 مسح الكل</sys:String>
+    <sys:String x:Key="Folders">المجلدات:</sys:String>
+    <sys:String x:Key="SubFolders">المجلدات الفرعية:</sys:String>
+    <sys:String x:Key="IncludeSubfolders">تضمين المجلدات الفرعية</sys:String>
+    <sys:String x:Key="PortableMode">الوضع المحمول</sys:String>
+    <sys:String x:Key="ChooseIcon">اختر أيقونة</sys:String>
+    <sys:String x:Key="ApplyCustomization">تطبيق التخصيص</sys:String>
+    <sys:String x:Key="Restore">وضع الاستعادة</sys:String>
+    <sys:String x:Key="NormalMode">الوضع العادي</sys:String>
+    <sys:String x:Key="RestoreToDefault">استعادة للافتراضي</sys:String>
+    <sys:String x:Key="Summary">ملخص العمليات</sys:String>
+    <sys:String x:Key="FoldersSelected">المجلدات المختارة:</sys:String>
+    <sys:String x:Key="TotalSubItems">إجمالي العناصر الفرعية:</sys:String>
+    <sys:String x:Key="IconPreview">معاينة الأيقونة</sys:String>
+    <sys:String x:Key="Settings">الإعدادات</sys:String>
+
+    <!-- Growl Messages -->
+    <sys:String x:Key="AppAlreadyInitialState">التطبيق بالفعل في حالته الأولية.</sys:String>
+    <sys:String x:Key="AppRefreshed">تم تحديث التطبيق بنجاح.</sys:String>
+    <sys:String x:Key="ListAlreadyEmpty">القائمة فارغة بالفعل.</sys:String>
+    <sys:String x:Key="PleaseSelectItems">الرجاء تحديد عناصر من القائمة لإزالتها.</sys:String>
+    <sys:String x:Key="ItemsRemoved">تم حذف العناصر المحددة.</sys:String>
+    <sys:String x:Key="FoldersListCleared">تم مسح قائمة المجلدات.</sys:String>
+    <sys:String x:Key="InvalidIconFile">ملف الأيقونة المحدد غير صالح.</sys:String>
+    <sys:String x:Key="RestoreModeActive">وضع الاستعادة نشط الآن.</sys:String>
+    <sys:String x:Key="ChooseAnIconFirst">الرجاء اختيار أيقونة أولاً.</sys:String>
+    <sys:String x:Key="FoldersHaveBeenRestored">تمت استعادة المجلدات إلى أيقوناتها الافتراضية.</sys:String>
+    <sys:String x:Key="IconsApplied">تم تطبيق الأيقونات بنجاح.</sys:String>
+    <sys:String x:Key="NormalModeActive">الوضع العادي نشط الآن.</sys:String>
+
+    <!-- About Window -->
+    <sys:String x:Key="About">حول البرنامج</sys:String>
+    <sys:String x:Key="CrystalFoldersTitle">مجلدات كريستال</sys:String>
+    <sys:String x:Key="CrystalIconsTitle">ايقونات كريستال</sys:String>
+    <sys:String x:Key="AppToCustomizeFolderIcons">تطبيق لتخصيص أيقونات المجلدات.</sys:String>
+    <sys:String x:Key="GlobalFontCollectionDesc">مجموعة خطوط عالمية لجميع اللغات.</sys:String>
+    <sys:String x:Key="Language">اللغة:</sys:String>
+    <sys:String x:Key="English">English (US)</sys:String>
+    <sys:String x:Key="Arabic">العربية (AR)</sys:String>
+    <sys:String x:Key="Theme">السمة</sys:String>
+    <sys:String x:Key="ErrorOpeningLink">خطأ في فتح الرابط:</sys:String>
+    <sys:String x:Key="DescriptionIcon">🔗 وصف التطبيق</sys:String>
+    <sys:String x:Key="Info">المعلومات</sys:String>
+
+    <!-- Help Dialog -->
+    <sys:String x:Key="Help">مساعدة</sys:String>
+    <sys:String x:Key="HelpDialogTitle">معلومات المساعدة</sys:String>
+    <sys:String x:Key="Close">إغلاق</sys:String>
+    <sys:String x:Key="HelpPortableHeader">• الوضع المحمول (Portable):</sys:String>
+    <sys:String x:Key="HelpUsageHeader">• كيفية الاستخدام:</sys:String>
+    <sys:String x:Key="WillMakeTheCustomIconVisible">سيؤدي هذا إلى جعل الأيقونة المخصصة مرئية على صورة المجلد المصغرة.</sys:String>
+    <sys:String x:Key="ItWorksByDraggingFolders">يعمل عن طريق سحب المجلدات التي تريد تخصيصها إلى القائمة، أو باستخدام زر التصفح.</sys:String>
+    <sys:String x:Key="YouCanCustomizeUpTo30Folders">يمكنك تخصيص ما يصل إلى 30 مجلدًا في المرة الواحدة.</sys:String>
+    <sys:String x:Key="WillRemoveAnyIconsCopied">سيؤدي هذا إلى إزالة أي أيقونات مخصصة تم نسخها مسبقًا بواسطة التطبيق.</sys:String>
+    <sys:String x:Key="YouCanRestoreUpTo30Folders">يمكنك استعادة ما يصل إلى 30 مجلدًا في المرة الواحدة.</sys:String>
+
+    <!-- Picker Window -->
+    <sys:String x:Key="ColorPickerTitle">منتقي الألوان</sys:String>
+    <sys:String x:Key="Apply">تطبيق</sys:String>
+    <sys:String x:Key="Cancel">إلغاء</sys:String>
+    <sys:String x:Key="Default">افتراضي</sys:String>
+
+    <!-- System Dialogs -->
+    <sys:String x:Key="SelectFolders">اختر المجلدات</sys:String>
+    <sys:String x:Key="IconFiles">ملفات الأيقونات</sys:String>
+
+    <!-- Icon Converter Strings -->
+    <sys:String x:Key="IconConverter">محول الأيقونات</sys:String>
+    <sys:String x:Key="SelectImageToPreview">اختر صورة للمعاينة</sys:String>
+    <sys:String x:Key="BrowseImage">اختيار صورة</sys:String>
+    <sys:String x:Key="SaveLocation">مكان الحفظ...</sys:String>
+    <sys:String x:Key="ConvertAndSave">تحويل وحفظ الأيقونة</sys:String>
+    <sys:String x:Key="IconSaved">تم حفظ الأيقونة بنجاح!</sys:String>
+    <sys:String x:Key="PleaseSelectPaths">يرجى اختيار الصورة ومكان الحفظ</sys:String>
+
+    <!-- Applying -->
+    <sys:String x:Key="Applying">جاري التطبيق...</sys:String>
+    <sys:String x:Key="PleaseWait">يرجى الانتظار</sys:String>
+    <sys:String x:Key="YourFoldersAreBeingCustomized">يتم الآن تخصيص المجلدات الخاصة بك، يرجى عدم إغلاق التطبيق.</sys:String>
+
+</ResourceDictionary>
