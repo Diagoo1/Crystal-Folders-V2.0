@@ -1,11 +1,11 @@
 <p align="center"></p>
 <p align="center"><a href="#"><img width="115px" src="https://raw.githubusercontent.com/Diagoo1/Crystal-Folders-V2.0/main/CrystalFolders/Resources/Icon - Copy.png" align="center" alt="Crystal Folders"/></a></p>
-<h1 align="center">Crystal Folders</h1>
+<h1 align="center">Crystal Folders v2.0</h1>
 <p align="center"><b>Crystal Folders</b> is a modern Windows application reimagined to customize and colorize your folder icons in seconds. Now featuring a brand-new UI, dynamic themes, and native Arabic support.</p>
 
 <p align="center">
  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-0984E3?style=flat-square&labelColor=343B45"/></a>
- <a href="https://github.com/Diagoo1/Crystal-Folders-V2.0/releases/latest"><img src="https://img.shields.io/github/v/release/genesistoxical/crystal-folders.svg?color=0984E3&label=Release&style=flat-square&labelColor=343B45"/></a>
+ <a href="https://github.com/Diagoo1/Crystal-Folders-V2.0/releases/latest"><img src="https://img.shields.io/github/v/release/Diagoo1/Crystal-Folders-V2.0.svg?color=0984E3&label=Release&style=flat-square&labelColor=343B45"/></a>
  <a href="#"><img alt="NET" src="https://img.shields.io/badge/.NET_Framework-4.8-0984E3?style=flat-square&labelColor=343B45"/></a> 
  <a href="#"><img alt="Languages" src="https://img.shields.io/badge/Languages-2-0984E3?style=flat-square&labelColor=343B45"/></a>
 </p>
@@ -16,8 +16,8 @@
 
 ---
 
-## 🌟 The Reimagined Experience (v1.5.0+)
-This isn't just an update—it's a complete overhaul. We’ve redesigned everything to give you the best customization experience:
+## 🌟 The Reimagined Experience (v2.0.0)
+This version is a **major milestone** and a complete overhaul from the ground up. We’ve redesigned everything to provide a premium customization experience:
 * **🎨 Brand New UI:** A modern, sleek design inspired by Windows 11 with smooth animations and adaptive rounded corners.
 * **🌙 Native Dark Mode:** Full integration for a comfortable visual experience during night sessions.
 * **🖼️ Image to Icon Engine:** Directly convert your favorite images into high-quality folder icons within the app.
@@ -70,7 +70,8 @@ To keep your system clean, your settings are **no longer stored next to the exec
 
 ---
 
-## 🆕 What's New? (Version 1.5.0)
+## 🆕 What's New? (Version 2.0.0)
+* **Major:** Full UI redesign with modern Windows 11 aesthetics.
 * **New:** Native Arabic Translation & RTL Layout support.
 * **New:** Custom Color Picker for UI (Accent Colors).
 * **New:** Persistent Dark Mode across sessions.
@@ -88,24 +89,15 @@ To keep your system clean, your settings are **no longer stored next to the exec
 ## 📜 Credits & Acknowledgments
 
 ### 👨‍💻 Development Team
+* **Tarek:** Lead developer of the reimagined version (v2.0.0). Implemented Arabic localization, Dynamic Themes, Dark Mode, and core system optimizations.
 * **[Génesis Toxical](https://github.com/genesistoxical):** Original creator of the first version of Crystal Folders. Thank you for the solid foundation.
-* **Tarek:** Lead developer of the reimagined version (v1.5.0+). Implemented Arabic localization, Dynamic Themes, Dark Mode, and core system optimizations.
 
 ### 📚 Third-Party Libraries
 * [HandyControls](https://github.com/ghost1372/HandyControls) - Modern UI components under MIT License.
 * [FolderBrowserEx](https://github.com/evaristocuesta/FolderBrowserEx) - Enhanced selection dialogs under MIT License.
 * [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music) - UI Fonts under SIL Open Font License.
-* Icons by [Teenyicons](https://github.com/teenyicons/teenyicons) and [Jam icons].
-
----
-
-## 🩷 Related Projects
-* [Custom Folder](https://genesistoxical.github.io/customfolder/)
-* [Drop Icons](https://github.com/genesistoxical/drop-icons/)
-* [Image to Icon](https://genesistoxical.github.io/imagetoicon/)
-* [Pixie Folders](https://github.com/genesistoxical/pixie-folders)
 
 ---
 
 ## ⚖️ License
-**MIT License** Copyright (c) 2025 - 2026 **Crystal Folders Project** - Maintained by the community.
+**MIT License** Copyright (c) 2025 - 2026 **Crystal Folders Project** - Maintained by Tarek.
